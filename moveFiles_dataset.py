@@ -1,7 +1,7 @@
 import os
 import shutil
 
-parent_folder = r'D:\dataset_ISLES22-MRI_ischemicStroke'
+parent_folder = r'D:\dataset_ISLES22-MRI_ischemicStroke' + '\\'
 #parent target folder
 
 if not os.path.exists(parent_folder):
